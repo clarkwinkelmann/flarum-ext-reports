@@ -1,0 +1,16 @@
+clarkwinkelmann-reports:
+    forum:
+        modal:
+            title: Report
+            submit: Submit
+        controls:
+            post: Report post
+            user: Report user
+
+    admin:
+        settings:
+            reasons: Reasons
+            add: Add
+            header:
+                key: Key
+                label: Label
